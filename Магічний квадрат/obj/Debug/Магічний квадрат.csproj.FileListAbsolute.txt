@@ -1,0 +1,43 @@
+C:\Users\evgen\OneDrive\Рабочий стол\МАГІЧНИЙ КВАДРА\Магічний квадрат\Магічний квадрат\bin\Debug\Магічний квадрат.exe.config
+C:\Users\evgen\OneDrive\Рабочий стол\МАГІЧНИЙ КВАДРА\Магічний квадрат\Магічний квадрат\bin\Debug\Магічний квадрат.exe
+C:\Users\evgen\OneDrive\Рабочий стол\МАГІЧНИЙ КВАДРА\Магічний квадрат\Магічний квадрат\bin\Debug\Магічний квадрат.pdb
+C:\Users\evgen\OneDrive\Рабочий стол\МАГІЧНИЙ КВАДРА\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний квадрат.csprojAssemblyReference.cache
+C:\Users\evgen\OneDrive\Рабочий стол\МАГІЧНИЙ КВАДРА\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний_квадрат.FrmMain.resources
+C:\Users\evgen\OneDrive\Рабочий стол\МАГІЧНИЙ КВАДРА\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний_квадрат.FrmMenu.resources
+C:\Users\evgen\OneDrive\Рабочий стол\МАГІЧНИЙ КВАДРА\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний_квадрат.Properties.Resources.resources
+C:\Users\evgen\OneDrive\Рабочий стол\МАГІЧНИЙ КВАДРА\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний квадрат.csproj.GenerateResource.cache
+C:\Users\evgen\OneDrive\Рабочий стол\МАГІЧНИЙ КВАДРА\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний квадрат.csproj.CoreCompileInputs.cache
+C:\Users\evgen\OneDrive\Рабочий стол\МАГІЧНИЙ КВАДРА\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний квадрат.exe
+C:\Users\evgen\OneDrive\Рабочий стол\МАГІЧНИЙ КВАДРА\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний квадрат.pdb
+C:\Users\insid\Desktop\Магічний квадрат\Магічний квадрат\bin\Debug\Магічний квадрат.exe.config
+C:\Users\insid\Desktop\Магічний квадрат\Магічний квадрат\bin\Debug\Магічний квадрат.exe
+C:\Users\insid\Desktop\Магічний квадрат\Магічний квадрат\bin\Debug\Магічний квадрат.pdb
+C:\Users\insid\Desktop\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний квадрат.csprojAssemblyReference.cache
+C:\Users\insid\Desktop\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний_квадрат.FrmMain.resources
+C:\Users\insid\Desktop\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний_квадрат.FrmMenu.resources
+C:\Users\insid\Desktop\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний_квадрат.Properties.Resources.resources
+C:\Users\insid\Desktop\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний квадрат.csproj.GenerateResource.cache
+C:\Users\insid\Desktop\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний квадрат.csproj.CoreCompileInputs.cache
+C:\Users\insid\Desktop\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний квадрат.exe
+C:\Users\insid\Desktop\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний квадрат.pdb
+C:\Users\evgen\OneDrive\Рабочий стол\Магічний квадрат\Магічний квадрат\bin\Debug\Магічний квадрат.exe.config
+C:\Users\evgen\OneDrive\Рабочий стол\Магічний квадрат\Магічний квадрат\bin\Debug\Магічний квадрат.exe
+C:\Users\evgen\OneDrive\Рабочий стол\Магічний квадрат\Магічний квадрат\bin\Debug\Магічний квадрат.pdb
+C:\Users\evgen\OneDrive\Рабочий стол\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний_квадрат.FrmMain.resources
+C:\Users\evgen\OneDrive\Рабочий стол\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний_квадрат.FrmMenu.resources
+C:\Users\evgen\OneDrive\Рабочий стол\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний_квадрат.Properties.Resources.resources
+C:\Users\evgen\OneDrive\Рабочий стол\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний квадрат.csproj.GenerateResource.cache
+C:\Users\evgen\OneDrive\Рабочий стол\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний квадрат.csproj.CoreCompileInputs.cache
+C:\Users\evgen\OneDrive\Рабочий стол\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний квадрат.exe
+C:\Users\evgen\OneDrive\Рабочий стол\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний квадрат.pdb
+C:\Users\admin\Desktop\Навчання\Магічний квадрат\Магічний квадрат\bin\Debug\Магічний квадрат.exe.config
+C:\Users\admin\Desktop\Навчання\Магічний квадрат\Магічний квадрат\bin\Debug\Магічний квадрат.exe
+C:\Users\admin\Desktop\Навчання\Магічний квадрат\Магічний квадрат\bin\Debug\Магічний квадрат.pdb
+C:\Users\admin\Desktop\Навчання\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний квадрат.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Навчання\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний_квадрат.FrmMain.resources
+C:\Users\admin\Desktop\Навчання\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний_квадрат.FrmMenu.resources
+C:\Users\admin\Desktop\Навчання\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний_квадрат.Properties.Resources.resources
+C:\Users\admin\Desktop\Навчання\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний квадрат.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Навчання\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний квадрат.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Навчання\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний квадрат.exe
+C:\Users\admin\Desktop\Навчання\Магічний квадрат\Магічний квадрат\obj\Debug\Магічний квадрат.pdb

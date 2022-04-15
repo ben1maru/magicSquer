@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Магічний квадрат", "Магічний квадрат\Магічний квадрат.csproj", "{0DEB94BE-1821-40F6-9643-B2CBC68A7D2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DEB94BE-1821-40F6-9643-B2CBC68A7D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DEB94BE-1821-40F6-9643-B2CBC68A7D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DEB94BE-1821-40F6-9643-B2CBC68A7D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DEB94BE-1821-40F6-9643-B2CBC68A7D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {156257D8-446D-4F7B-B0CA-A0212BF2C386}
+	EndGlobalSection
+EndGlobal
